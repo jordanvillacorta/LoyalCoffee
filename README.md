@@ -67,7 +67,6 @@ AWS EC2 <img align="left" width="30px" src="https://upload.wikimedia.org/wikiped
 Google Cloud API <img align="left" width="30px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
 <br />
 
-
 ### Development
 Expo Go <img align="left" width="30px" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" />
 <br />
