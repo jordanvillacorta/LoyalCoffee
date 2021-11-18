@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LoyalCoffee",
+    "slug": "LoyalCoffee",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LoyalCoffee"
+}
