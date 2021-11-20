@@ -12,7 +12,7 @@
 - [Jian Zhang](https://github.com/OursCat) - Full Stack Engineer | [LinkedIn](https://www.linkedin.com/in/-jianzhang/)
 
 ## Description
-*Description here*
+* Description here *
 
 ## Demonstration
 * Video/GIF *
