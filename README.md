@@ -15,7 +15,7 @@
 *Description here*
 
 ## Demonstration
-*Video/GIF*
+* Video/GIF *
 
 ## How to run on local machine
 To view on a local machine, please follow these instructions:
